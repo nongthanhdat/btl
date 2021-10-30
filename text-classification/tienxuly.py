@@ -40,4 +40,4 @@ X_test, y_test = getData(test_path)
 X_test = list_to_doc(X_test)
 pickle.dump(X_test, open('data/X_test.pkl', 'wb'))
 pickle.dump(y_test, open('data/y_test.pkl', 'wb'))
-
+#dkdkkskskdk
